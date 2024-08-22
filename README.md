@@ -1,3 +1,8 @@
+## Google Colab notebook link: https://colab.research.google.com/drive/17Lwrm07DSu1GT4p2lkHXg4gdKelzMT9l?usp=sharing
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_u-8aSIQ)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14549915&assignment_repo_type=AssignmentRepo)
 # Hyperparameter Optimization
 
 For this exercise, we will have a look at Hyperparameter Optimization --
@@ -54,3 +59,5 @@ statistical tests to make this determination.
 
 Add your report and code to this repository. Bonus points if you can set up a
 Github action to automatically run the code and generate the report!
+
+
